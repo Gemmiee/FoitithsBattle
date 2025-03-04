@@ -1,0 +1,2 @@
+# FoitithsBattle
+Assignment for python 
